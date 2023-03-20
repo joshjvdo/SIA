@@ -61,6 +61,9 @@ body{
 .box-two input::placeholder{
   font-size:1rem;
 }
+.box-two input:focus{
+  border:1px solid #00acee;
+}
 .box-two .next-btn{
   backgroun-color:#121212;
   color:#fff;
